@@ -1,0 +1,28 @@
+{
+  "price": 0.08,
+  "number": 10,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "AdGZTy5qTWoNts7CH2zYDMbdyVCeUAm1KF6um6xoWWcJ",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "AdGZTy5qTWoNts7CH2zYDMbdyVCeUAm1KF6um6xoWWcJ",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "2022-12-18T13:00:00+00:00",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "freezeTime": null,
+  "uploadMethod": "nft_storage",
+  "retainAuthority": true,
+  "isMutable": true,
+  "symbol": "CRB",
+  "sellerFeeBasisPoints": 100,
+  "awsConfig": null,
+  "nftStorageAuthToken": "SOL",
+  "shdwStorageAccount": null,
+  "pinataConfig": null
+}
